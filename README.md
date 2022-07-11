@@ -1,5 +1,5 @@
 # todo-list
-![gif](gif-todolist.png)
+![gif](gif-todolist.gif)
 
 ## Tecnologias
 - Javascript
